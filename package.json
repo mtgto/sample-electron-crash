@@ -1,0 +1,15 @@
+{
+  "name": "sample-electron-crash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mtgto <hogerappa@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "start": "electron index.js"
+  },
+  "devDependencies": {
+    "electron": "^7.1.8",
+    "typescript": "^3.7.4"
+  }
+}
